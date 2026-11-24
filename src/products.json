@@ -1,0 +1,130 @@
+[
+  {
+    "id": "17pm",
+    "name": "iPhone 17 Pro Max",
+    "price": 1199,
+    "chip": "A19 Pro",
+    "screen": "6,9",
+    "color": "Laranja-cósmico",
+    "storage": [
+      256,
+      512,
+      1024,
+      2048
+    ],
+    "image": "https://image.vandenborre.be/WEB/images/products/superzoom/apple_iphone-17-pmax-512gb-oran_7654170_1.jpg"
+  },
+  {
+    "id": "17p",
+    "name": "iPhone 17 Pro",
+    "price": 1099,
+    "chip": "A19 Pro",
+    "screen": "6,3",
+    "color": "Azul-intenso",
+    "storage": [
+      256,
+      512,
+      1024
+    ],
+    "image": "https://www.stephanis.com.cy/media/products/IPH.00518.jpg?dimensions=1000x1000"
+  },
+  {
+    "id": "17",
+    "name": "iPhone 17",
+    "price": 799,
+    "chip": "A19",
+    "screen": "6,3",
+    "color": "Lavanda",
+    "storage": [
+      256,
+      512
+    ],
+    "image": "https://mgstore.az/media/catalog/product/cache/a252e3db3d11365dd1457895056a5f34/t/m/tm-dg-sbp-1105-sm-3698_1.png"
+  },
+  {
+    "id": "16pm",
+    "name": "iPhone 16 Pro Max",
+    "price": 999,
+    "chip": "A18 Pro",
+    "screen": "6,9",
+    "color": "Titânio-deserto",
+    "storage": [
+      256,
+      512,
+      1024
+    ],
+    "image": "https://media.krefel.be/sys-master/products/9433284542494/2160x2160.51006679_01.webp"
+  },
+  {
+    "id": "16p",
+    "name": "iPhone 16 Pro",
+    "price": 899,
+    "chip": "A18 Pro",
+    "screen": "6,3",
+    "color": "Titânio natural",
+    "storage": [
+      128,
+      256,
+      512,
+      1024
+    ],
+    "image": "https://data.clickforshop.it/imgprodotto/apple-iphone-16-pro-5g-smartphone-6-3-memoria-128-gb-colore-titanio-naturale_431908_zoom.jpg"
+  },
+  {
+    "id": "16",
+    "name": "iPhone 16",
+    "price": 699,
+    "chip": "A18",
+    "screen": "6,1",
+    "color": "Ultramarino",
+    "storage": [
+      128,
+      256,
+      512
+    ],
+    "image": "https://www.costco.com.tw/medias/sys_master/images/h77/h1c/274498548203550.jpg"
+  },
+  {
+    "id": "15pm",
+    "name": "iPhone 15 Pro Max",
+    "price": 799,
+    "chip": "A17 Pro",
+    "screen": "6,7",
+    "color": "Titânio natural",
+    "storage": [
+      256,
+      512,
+      1024
+    ],
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/06/44/LD0006064496.jpg"
+  },
+  {
+    "id": "15p",
+    "name": "iPhone 15 Pro",
+    "price": 699,
+    "chip": "A17 Pro",
+    "screen": "6,1",
+    "color": "Titânio azul",
+    "storage": [
+      128,
+      256,
+      512,
+      1024
+    ],
+    "image": "https://www.coolmatica.pt/store/275497-large_default/apple-iphone-15-pro-155cm-61-dual-sim-ios-17-5g-usb-type-c-512-gb-blue-titanium.jpg"
+  },
+  {
+    "id": "15",
+    "name": "iPhone 15",
+    "price": 549,
+    "chip": "A16 Bionic",
+    "screen": "6,1",
+    "color": "Rosa",
+    "storage": [
+      128,
+      256,
+      512
+    ],
+    "image": "https://brain.com.ua/static/images/prod_img/9/3/U0854693_big_1694679016.jpg"
+  }
+]
