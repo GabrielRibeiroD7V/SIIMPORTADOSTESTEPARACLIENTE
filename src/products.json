@@ -1,0 +1,102 @@
+[
+  {
+    "id": "17pm",
+    "name": "iPhone 17 Pro Max",
+    "price": 1425,
+    "chip": "A19 Pro",
+    "screen": "6,9",
+    "color": "Consulte as cores disponíveis",
+    "storage": [
+      256
+    ],
+    "image": "https://image.vandenborre.be/WEB/images/products/superzoom/apple_iphone-17-pmax-512gb-oran_7654170_1.jpg",
+    "brl": 7395,
+    "images": []
+  },
+  {
+    "id": "17p",
+    "name": "iPhone 17 Pro",
+    "price": 1295,
+    "chip": "A19 Pro",
+    "screen": "6,3",
+    "color": "Consulte as cores disponíveis",
+    "storage": [
+      256
+    ],
+    "image": "https://www.stephanis.com.cy/media/products/IPH.00518.jpg?dimensions=1000x1000",
+    "brl": 6700,
+    "images": []
+  },
+  {
+    "id": "17",
+    "name": "iPhone 17",
+    "price": 812,
+    "chip": "A19",
+    "screen": "6,3",
+    "color": "Consulte as cores disponíveis",
+    "storage": [
+      256
+    ],
+    "image": "https://mgstore.az/media/catalog/product/cache/a252e3db3d11365dd1457895056a5f34/t/m/tm-dg-sbp-1105-sm-3698_1.png",
+    "brl": 4200,
+    "images": []
+  },
+  {
+    "id": "16",
+    "name": "iPhone 16",
+    "price": 725,
+    "chip": "A18",
+    "screen": "6,1",
+    "color": "Consulte as cores disponíveis",
+    "storage": [
+      128
+    ],
+    "image": "https://www.costco.com.tw/medias/sys_master/images/h77/h1c/274498548203550.jpg",
+    "brl": 3750,
+    "images": []
+  },
+  {
+    "id": "15",
+    "name": "iPhone 15",
+    "price": 625,
+    "chip": "A16 Bionic",
+    "screen": "6,1",
+    "color": "Consulte as cores disponíveis",
+    "storage": [
+      128
+    ],
+    "image": "https://brain.com.ua/static/images/prod_img/9/3/U0854693_big_1694679016.jpg",
+    "brl": 3230,
+    "images": []
+  },
+  {
+    "id": "air",
+    "name": "iPhone Air",
+    "price": 960,
+    "brl": 4980,
+    "chip": "A19 Pro",
+    "screen": "6,5",
+    "color": "Consulte as cores disponíveis",
+    "storage": [
+      256
+    ],
+    "image": "",
+    "source": "https://siimportados.com/produto/iphone-air-256gb-esim/",
+    "images": []
+  },
+  {
+    "id": "14",
+    "name": "iPhone 14",
+    "price": 540,
+    "brl": 2800,
+    "chip": "A15 Bionic",
+    "screen": "6,1",
+    "color": "Consulte as cores disponíveis",
+    "storage": [
+      128
+    ],
+    "image": "",
+    "source": "https://siimportados.com/produto/iphone-14-128gb/",
+    "images": []
+  }
+]

@@ -1,5 +1,5 @@
 # SI Importados — demonstração comercial
 
-Frontend estático, sem backend. Preços e pagamentos exclusivamente demonstrativos. WhatsApp oficial pendente. Não representa uma loja oficial.
+React + Vite + TypeScript, sem backend. `npm install`, `npm run dev`, `npm test`, `npm run build`.
 
-Execute `npm install` e `npm run dev` após a inclusão dos arquivos do aplicativo.
+Preços, câmbio e checkout demonstrativos. Nenhuma coleta bancária. Imagens de referência de varejistas, URLs em src/products.json; verificar autorização de uso e disponibilidade antes de publicação. Logo original deve ser colocada em public/logo.png. WhatsApp e Instagram oficiais. Não publicar sem aprovação.
