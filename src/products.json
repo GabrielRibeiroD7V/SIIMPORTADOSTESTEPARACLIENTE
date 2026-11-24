@@ -63,5 +63,33 @@
     ],
     "image": "https://brain.com.ua/static/images/prod_img/9/3/U0854693_big_1694679016.jpg",
     "brl": 3230
+  },
+  {
+    "id": "air",
+    "name": "iPhone Air",
+    "price": 960,
+    "brl": 4980,
+    "chip": "A19 Pro",
+    "screen": "6,5",
+    "color": "Consulte cores",
+    "storage": [
+      256
+    ],
+    "image": "",
+    "source": "https://siimportados.com/produto/iphone-air-256gb-esim/"
+  },
+  {
+    "id": "14",
+    "name": "iPhone 14",
+    "price": 540,
+    "brl": 2800,
+    "chip": "A15 Bionic",
+    "screen": "6,1",
+    "color": "Consulte cores",
+    "storage": [
+      128
+    ],
+    "image": "",
+    "source": "https://siimportados.com/produto/iphone-14-128gb/"
   }
 ]
